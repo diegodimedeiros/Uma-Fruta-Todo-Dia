@@ -22,7 +22,7 @@ Este projeto é uma página da web que celebra a diversidade de frutas disponív
 
 1. Clone este repositório:
     ```bash
-    git clone https://github.com/seu-usuario/uma-fruta-todo-dia.git
+    git clone https://github.com/diegodimedeiros/uma-fruta-todo-dia.git
     ```
 2. Navegue até o diretório do projeto:
     ```bash
