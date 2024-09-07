@@ -1,0 +1,32 @@
+/* Estilo para o carrossel e imagens */
+#carrossel-slide {
+    max-width: 100%; /* Define a largura máxima do carrossel como 100% do elemento pai */
+    max-height: 550px; /* Define a altura máxima do carrossel */
+    overflow: hidden; /* Esconde qualquer parte da imagem que ultrapasse a altura ou largura máxima do carrossel */
+    margin: 0 auto; /* Centraliza o carrossel horizontalmente no container pai */
+    display: block; /* Garante que o carrossel seja tratado como um bloco para o centralamento */
+}
+
+/* Estilo para as imagens dentro do carrossel */
+#carrossel-slide .carousel-inner img {
+    object-fit: cover; /* Ajusta a imagem para cobrir o contêiner mantendo a proporção, cortando as partes que excedem o contêiner */
+    width: 100%; /* Define a largura da imagem como 100% do contêiner do carrossel */
+    height: 350px; /* Define uma altura fixa para as imagens do carrossel */
+}
+
+/* Estilo para as legendas do carrossel */
+.carousel-caption {
+    bottom: 10px; /* Define a distância das legendas do fundo do carrossel */
+}
+
+/* Responsividade para telas menores */
+@media (max-width: 768px) {
+    /* Ajustes para telas com largura máxima de 768px (por exemplo, tablets e smartphones) */
+    #carrossel-slide {
+        max-height: 400px; /* Reduz a altura máxima do carrossel para telas menores */
+    }
+    
+    #carrossel-slide .carousel-inner img {
+        height: 250px; /* Reduz a altura das imagens do carrossel para telas menores */
+    }
+}
