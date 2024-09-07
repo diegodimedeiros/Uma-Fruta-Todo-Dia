@@ -4,7 +4,7 @@ Bem-vindo ao "Uma Fruta Todo Dia"! Este é o lugar perfeito para os amantes de f
 
 ## ❓ O que é isso?
 
-Este projeto é uma página da web que celebra a diversidade de frutas disponíveis em feiras municipais e populares. A página inclui um carrossel para mostrar as frutas mais irresistíveis e um formulário de busca para que você encontre exatamente o que procura.
+Este projeto é uma página da web que celebra a diversidade de frutas disponíveis em feiras municipais e populares. A página inclui um carrossel e cards para mostrar as frutas mais irresistíveis e um formulário de busca para que você encontre exatamente o que procura.
 
 ## ⚙ Tecnologias Usadas
 
