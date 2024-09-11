@@ -2,6 +2,8 @@
 
 Bem-vindo ao "Uma Fruta Todo Dia"! Este é o lugar perfeito para os amantes de frutas. Aqui, você encontrará varios cards vibrante de imagens de frutas frescas e muito mais!
 
+https://uma-fruta-todo-dia.vercel.app/
+
 ## ❓ O que é isso?
 
 Este projeto é uma página da web que celebra a diversidade de frutas disponíveis em feiras municipais e populares. A página inclui um carrossel e cards para mostrar as frutas mais irresistíveis e um formulário de busca para que você encontre exatamente o que procura.
