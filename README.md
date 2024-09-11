@@ -2,7 +2,7 @@
 
 Bem-vindo ao "Uma Fruta Todo Dia"! Este é o lugar perfeito para os amantes de frutas. Aqui, você encontrará varios cards vibrante de imagens de frutas frescas e muito mais!
 
-Visite o site: <a href="https://uma-fruta-todo-dia.vercel.app/" target="_blank">Visite o site</a>
+<a href="https://uma-fruta-todo-dia.vercel.app/" target="_blank">Visite o site</a>
 
 ## ❓ O que é isso?
 
